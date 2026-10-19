@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Vikas 👋
 
-<!--
-**pymisc/pymisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Staff DevOps & Platform Engineer | Cloud Infrastructure | Automation | Open Source**
 
-Here are some ideas to get you started:
+Building reliable cloud-native platforms and creating practical engineering tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+`Kubernetes` `AWS` `Azure` `Terraform` `Python` `Helm` `GitHub Actions` `Prometheus` `Grafana` `Argo CD`
+
+## 📂 Featured Projects
+
+### [k8s-network-monitor](https://github.com/pymisc/k8s-network-monitor)
+Kubernetes-based internet bandwidth monitoring with Prometheus metrics, Grafana, and Helm.
+
+### [terraform-aws](https://github.com/pymisc/terraform-aws)
+AWS infrastructure automation using Terraform.
+
+### [platform-inspector](https://github.com/pymisc/platform-inspector)
+Python learning and practical platform engineering exercises.
+
+### [knowledge-screen](https://github.com/pymisc/knowledge-screen)
+Turn a secondary monitor into a knowledge and learning display.
+
+## 🎯 Current Focus
+
+Kubernetes • Infrastructure as Code • Python Automation • Observability • Platform Reliability
+
+## 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/vsdevops/) | [GitHub](https://github.com/pymisc)
