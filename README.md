@@ -13,14 +13,15 @@ Building reliable cloud-native platforms and creating practical engineering tool
 ### [k8s-network-monitor](https://github.com/pymisc/k8s-network-monitor)
 Kubernetes-based internet bandwidth monitoring with Prometheus metrics, Grafana, and Helm.
 
+### [knowledge-screen](https://github.com/pymisc/knowledge-screen)
+Turn a secondary monitor into a knowledge and learning display.
+
 ### [terraform-aws](https://github.com/pymisc/terraform-aws)
 AWS infrastructure automation using Terraform.
 
 ### [platform-inspector](https://github.com/pymisc/platform-inspector)
 Python learning and practical platform engineering exercises.
 
-### [knowledge-screen](https://github.com/pymisc/knowledge-screen)
-Turn a secondary monitor into a knowledge and learning display.
 
 ## 🎯 Current Focus
 
